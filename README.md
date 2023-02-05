@@ -118,7 +118,7 @@
  
  [![card](https://github-readme-stats.vercel.app/api?username=oguilhermerdg&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
-<!-- [![oguilhermerdg](https://github-readme-stats.vercel.app/api/top-langs/?username=oguilhermerdg&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+ <!-- [![oguilhermerdg](https://github-readme-stats.vercel.app/api/top-langs/?username=oguilhermerdg&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
